@@ -1,0 +1,109 @@
+.logo {
+    width: 300px;
+}
+.ending {
+    width: 200px;
+}
+
+.slimy {
+    width: 200px;
+    display:none;
+}
+body {
+    text-align: center;
+}
+.clean {
+    display:none;
+}
+.christopher {
+    display:none;
+}
+.chrisslime {
+    display:none;
+}
+.enter2 {
+    display:none;
+}
+.release2 {
+    display:none;
+}
+.clean2 {
+    display:none;
+}
+.chrisramirez {
+    display:none;
+}
+.chrisslime2 {
+    display:none;
+}
+.enter3 {
+    display:none;
+}
+.release3 {
+    display:none;
+}
+.clean3 {
+    display:none;
+}
+.release3 {
+    background-color:yellow;
+    border-color:gold;
+}
+.clean3 {
+    background-color:yellow;
+    border-color:gold;
+}
+.release2 {
+    background-color:red;
+    border-color:maroon;
+}
+.clean2 {
+    background-color:red;
+    border-color:maroon;
+}
+.release {
+    background-color:blue;
+    border-color:navy;
+}
+.clean {
+    background-color:blue;
+    border-color:navy;
+}
+.more {
+    background-color:green;
+    border-color:darkgreen;
+}
+p {
+    font-family: 'Voltaire', sans-serif;
+}
+.started {
+    font-family: 'Mogra', cursive;
+    font-size: 30px;
+    color: green;
+}
+body {
+    background-color: skyblue;
+}
+.buy {
+    background-color:lime;
+    border-color:green;
+}
+.enter4 {
+    display:none;
+}
+.cash {
+    background-color:white;
+    border-color:black;
+}
+.cash {
+    display:none;
+}
+.wait {
+    display:none;
+}
+li {
+    font-family: 'Voltaire', sans-serif;
+}
+.info {
+    display:none;
+}
